@@ -1,5 +1,5 @@
 <?php
-namespace Lingwf95;
+namespace lingwf\simple;
 
 class SimpleIpFunc
 {

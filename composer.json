@@ -1,0 +1,18 @@
+{
+    "name": "lingwf/simple-ip-func",
+    "description": "Simple IP function",
+    "authors": [
+        {
+            "name": "Ling"
+        }
+    ],
+    "license": "MIT",
+    "require": {
+        "php": ">=5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "lingwf95\\simple-ip-func\\": "src/"
+        }
+    }
+}

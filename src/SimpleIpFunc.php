@@ -161,7 +161,3 @@ class SimpleIpFunc
 		return false;
 	}
 }
-
-
-$func = new IPfunc();
-var_dump($func->getIpListBySegment('172.18.100.0/30'));
